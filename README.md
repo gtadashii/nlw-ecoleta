@@ -1,5 +1,5 @@
 # Projeto Ecoleta 
-## Desenvolvido duranta a semana NLW #1 da **Rocketseat**
+## Desenvolvido durante a semana NLW #1 da **Rocketseat**
 
 Algumas das tecnologias utilizadas na aplicação:
 * HTML / CSS / Javascript
